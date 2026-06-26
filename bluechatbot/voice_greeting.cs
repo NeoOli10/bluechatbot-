@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Media;
 
-namespace demo
+namespace bluechatbot
 {
     //start of namespace
     public class voice_greeting

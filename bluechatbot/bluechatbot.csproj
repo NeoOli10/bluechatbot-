@@ -123,6 +123,7 @@
     <Compile Include="Question_in_quiz.cs" />
     <Compile Include="Quiz_Question_Load.cs" />
     <Compile Include="respond.cs" />
+    <Compile Include="respond1.cs" />
     <Compile Include="tasks.cs" />
     <Compile Include="training.cs" />
     <Compile Include="training1.cs" />
